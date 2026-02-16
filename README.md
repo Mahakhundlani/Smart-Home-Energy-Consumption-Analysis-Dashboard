@@ -106,4 +106,4 @@ This project demonstrates how data analysis and visualization can transform raw 
 
 ---
 
-⭐ If you found this project helpful, feel free to star the repository!
+⭐ If you found this project helpful, feel free to star the repository
